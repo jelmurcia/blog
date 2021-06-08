@@ -1,5 +1,20 @@
 baseURL = "https://joaquinmurcia.me/"
 languageCode = "es"
-title = "My New Hugo Site"
+title = "Joaquín Murcia"
 theme = "hyde-hyde"
 
+## Site Settings
+[params]
+    author = "Joaquín Murcia"
+    title = "Joaquín Murcia"
+    # description = "skere"
+    authorimage = "/img/me.png"
+    dateformat = "02/01/2006"
+
+    # sidebar, copyright & license
+    #logoimage = "/img/me.png"
+    copyright = "htr3n"
+    since = 2019
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
