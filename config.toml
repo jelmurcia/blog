@@ -17,7 +17,7 @@ theme = "hyde-hyde"
     author = "Joaquín Murcia"
     title = "Joaquín Murcia"
     # description = "skere"
-    authorimage = "/img/me.png"
+    authorimage = "me.png"
     dateformat = "02/01/2006"
 
     mainSections = ["posts"]
