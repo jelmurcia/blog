@@ -1,4 +1,4 @@
-baseURL = "https://joaquinmurcia.me/"
+baseURL = "https://joaquinmurcia.netlify.app/"
 languageCode = "es"
 title = "Joaquín Murcia"
 theme = "hyde-hyde"
