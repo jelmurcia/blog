@@ -20,7 +20,9 @@ theme = "hyde-hyde"
     authorimage = "me.png" # Ojo porque lo he trickeado (ver el parámetro social.gravatar)
     dateformat = "02/01/2006"
 
+    # Las que he puesto yo
     mainSections = ["posts"]
+    themeColor = "theme-base-0b" # Está en themes/hyde-hyde/assets/scss/hyde-hyde/_theme.scss
 
     # sidebar, copyright & license
     #logoimage = "/img/me.png"
