@@ -1,4 +1,4 @@
-baseURL = "joaquinmurcia.me/"
+baseURL = "http://joaquinmurcia.me/"
 languageCode = "es"
 title = "Joaquín Murcia"
 theme = "hyde-hyde"
