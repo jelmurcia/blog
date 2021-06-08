@@ -3,6 +3,15 @@ languageCode = "es"
 title = "Joaquín Murcia"
 theme = "hyde-hyde"
 
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+# summarylength = 30
+
+#paginate = 5
+
 ## Site Settings
 [params]
     author = "Joaquín Murcia"
@@ -11,6 +20,8 @@ theme = "hyde-hyde"
     authorimage = "/img/me.png"
     dateformat = "02/01/2006"
 
+    mainSections = ["posts"]
+
     # sidebar, copyright & license
     #logoimage = "/img/me.png"
     copyright = "htr3n"
@@ -18,3 +29,44 @@ theme = "hyde-hyde"
     license = "CC BY-SA 4.0"
     licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
     showBuiltWith = true
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+    
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+[params.social]
+    github = "jelmurcia"
+    instagram = "jelmurciabarrabaja"
+    linkedin = "joaquinmurciaballesta"
+    # twitter = "<username>"
+    # facebook = "<username>"
+    email = "joaquinmurciapersonal@gmail.com"
+    # gravatar = "your-email@example.com"
+    # pgpkey = "<path-to-your-key-in-/static>"
+
+## Main Menu
+# [[menu.main]]
+#    name = "Posts"
+#    weight = 100
+#    identifier = "posts"
+#    url = "/posts/"
+# [[menu.main]]
+#    name = "Portfolio"
+#    identifier = "portfolio"
+#    weight = 200
+#    url = "/portfolio/"
+[[menu.main]]
+    name = "Sobre mí"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
