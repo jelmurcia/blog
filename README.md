@@ -11,4 +11,4 @@ My personal static website blog
 
 
 
-I hope you enjoyed
+Not much tbh, you will figure it out on your own
