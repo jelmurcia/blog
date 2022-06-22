@@ -11,9 +11,14 @@ All activities you did this hypothetical day have something in common: You spent
 3. You spent 4h watching and missed a date with a soul who could've turned your life around to watch The Squid Game, and gained baggy eyes from all the sleep you skipped and the ability to hop on the trend train for two weeks.
    There you are. Your whole day consists on trading some things for others of a different nature.
 
-With this bartering being so fundamental to your existence, we must be such experts at taking the good deals, right? Let's just look at what you did today: 3. You spent 4h watching and forwent a date with a soul who could've turned your life around to watch The Squid Game, and gained baggy eyes from all the sleep you skipped and the ability to hop on the trend train for two weeks.
+With this bartering being so fundamental to your existence, we must be such experts at taking the good deals, right? Let's just look at what you did today:
+
+3. You spent 4h watching and forwent a date with a soul who could've turned your life around to watch The Squid Game, and gained baggy eyes from all the sleep you skipped and the ability to hop on the trend train for two weeks.
+
 **forwent a date with a soul who could've turned your life around to watch The Squid Game, and gained baggy eyes**
+
 **COULD'VE TURNED YOUR LIFE AROUND**
+
 **BAGGY EYES**
 Whoops.
 What happened here is a reflection of how bad we actually are at deciding what is going to give us the most bang for the buck. And this happens for a number of reasons:
